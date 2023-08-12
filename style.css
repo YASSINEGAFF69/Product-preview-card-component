@@ -44,7 +44,7 @@ main{
 }
 .type{
     color: var(--Dark-grayish-blue);
-    font-size: 0.96rem;
+    font-size: 0.92rem;
 }
 .product_name{
     font-family: Fraunces;
@@ -112,40 +112,5 @@ main{
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .attribution { font-size: 11px; text-align: center; position: absolute; bottom: 10px; left: 10px;}
 .attribution a { color: hsl(228, 45%, 44%); }
